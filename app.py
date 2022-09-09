@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, render_template
 #__name__ is already defined in any Python script
 print(__name__)
 app = Flask(__name__)  #create flask application
@@ -8,7 +8,8 @@ app = Flask(__name__)  #create flask application
 #returns below function
 # When root page is accessed, return "Hello, World"
 def hello_world():
-    return "Hello, World"
+  #return "Hello, World"
+  return render_template("home.html")   
 
 
 if __name__ == "__main__":
