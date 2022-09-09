@@ -8,8 +8,8 @@ app = Flask(__name__)  #create flask application
 #returns below function
 # When root page is accessed, return "Hello, World"
 def hello_world():
-  #return "Hello, World"
-  return render_template("home.html")   
+    #return "Hello, World"
+    return render_template("home2.html")
 
 
 if __name__ == "__main__":
