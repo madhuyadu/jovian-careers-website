@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, jsonify
 #__name__ is already defined in any Python script
 print(__name__)
 app = Flask(__name__)  #create flask application
@@ -26,12 +26,19 @@ JOBS = [{
 }]
 
 
+#HTML endpoint
 @app.route("/")  #rootpage/homepage URL
 #returns below function
 # When root page is accessed, return "Hello, World"
 def hello_world():
     #return "Hello, World"
     return render_template("home3.html", jobs=JOBS, company_name='Jovian')
+
+
+#json endpoint/API route
+@app.route("/api/jobs")  #json object is shown/JSON API
+def list_jobs():
+    return jsonify(JOBS)
 
 
 if __name__ == "__main__":
