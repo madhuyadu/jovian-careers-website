@@ -44,4 +44,4 @@ def list_jobs():
 if __name__ == "__main__":
     print("I'm inside if now !!")
     #'0.0.0.0' is local development server
-    app.run(host='0.0.0.0', debug=True)  #START the app
+    app.run(debug=True)  #START the app
