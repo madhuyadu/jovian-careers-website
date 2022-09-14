@@ -1,6 +1,6 @@
 # jovian-careers-website
 Hi all,
-This is my first project created ouside Data Analytics domain and hence very excited about the same.
+This is my first non-analytics project and hence very excited about the same.
 In this Project, I have created a sample Careers website with basic features.
 In future, I look forward to building upon this work and enrich this site with many more features.
 I am basically not a front-end developer and hence used readily available templates online to quickly build this site. But after this work, I am quite curious to learn front-end development little deeper & take this work forward.
