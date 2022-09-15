@@ -1,6 +1,6 @@
 # Jovian-careers-website
 # Project details:
-This is my first non-analytics project and hence very excited about the same.<br />
+This is my first non-analytics project and hence I am very excited about the same.<br />
 In this Project, I have created a sample Careers website with basic features.<br />
 In future, I look forward to building upon this work and enrich this site with many more features.<br />
 I am basically not a front-end developer and hence used readily available templates online to quickly build this site.<br />
