@@ -1,9 +1,10 @@
 # Jovian-careers-website
 # Project details:
-This is my first non-analytics project and hence very excited about the same.
-In this Project, I have created a sample Careers website with basic features.
-In future, I look forward to building upon this work and enrich this site with many more features.
-I am basically not a front-end developer and hence used readily available templates online to quickly build this site. But after this work, I am quite curious to learn front-end development little deeper & take this work forward.
+This is my first non-analytics project and hence very excited about the same.<br />
+In this Project, I have created a sample Careers website with basic features.<br />
+In future, I look forward to building upon this work and enrich this site with many more features.<br />
+I am basically not a front-end developer and hence used readily available templates online to quickly build this site.<br />
+But after this work, I am quite curious to learn front-end development little deeper & take this work forward.
 
 Here is the brief summary of my work:
 - Programming languages used: html, css, bootstrap, Python
@@ -20,6 +21,6 @@ Here is the brief summary of my work:
 ![image](https://user-images.githubusercontent.com/56335301/190380485-52f2b182-b2d9-4938-abef-87ddf72579e7.png)
 
 # Credits
-This website is created based on video tutorial created by Mr. Akash N S from Jovian Community.
+This website is created based on video tutorial created by Mr. Akash N S from Jovian Community.<br />
 I would like to sincerely thank him for introducing me to this beatiful world of creating websites & front-end development.
 
