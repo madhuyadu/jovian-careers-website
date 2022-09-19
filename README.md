@@ -15,10 +15,29 @@ Here is the brief summary of my work:
 - render.com for hosting the Flask app developed on Production server. Deployed the app using this platform & also created this website
 
 # Screenshots of the app
-![image](https://user-images.githubusercontent.com/56335301/190380203-b0e49109-6a74-4ac7-8f73-e56d86134ff8.png)
-![image](https://user-images.githubusercontent.com/56335301/190380321-fef48e87-efc6-45be-bac1-64e19769c1cb.png)
-![image](https://user-images.githubusercontent.com/56335301/190380400-875ddf57-4e92-4c7a-974b-734c11f2b0e7.png)
-![image](https://user-images.githubusercontent.com/56335301/190380485-52f2b182-b2d9-4938-abef-87ddf72579e7.png)
+1. Main page
+![image](https://user-images.githubusercontent.com/56335301/190954440-d066d4ac-4bf9-4344-907a-01ff30e47827.png)
+![image](https://user-images.githubusercontent.com/56335301/190954556-709b984b-0748-4e03-bb91-089ec3d15b0c.png)
+![image](https://user-images.githubusercontent.com/56335301/190954601-28235824-7d6f-45f6-a502-6caf6c5fad79.png)
+
+
+2. Clicking any of the Apply buttons related to a job opening leads to this automatic email sending
+![image](https://user-images.githubusercontent.com/56335301/190954692-9edeeef6-2330-471c-9d46-b94a949ed523.png)
+
+3. Clicking the "Contact Us" button opens up this email sender
+![image](https://user-images.githubusercontent.com/56335301/190954806-242f0a9a-0337-4ebd-8949-91dbc9b46fb6.png)
+
+![image](https://user-images.githubusercontent.com/56335301/190954780-95e5168c-030e-4cdc-b1cd-962ca09a8c46.png)
+
+4. Home button when clicked navigates to below page
+![image](https://user-images.githubusercontent.com/56335301/190954840-2c2cdf3f-2dc1-4e83-8d85-07e9e3f79c40.png)
+![image](https://user-images.githubusercontent.com/56335301/190954909-55d4dde3-eb15-4561-b574-2fa7e91f5a58.png)
+
+5. Courses button when clicked navigates to below page
+![image](https://user-images.githubusercontent.com/56335301/190954945-ccd733dc-7b5d-44a6-996a-dad71d213f7f.png)
+
+6. Events button when clicked navigates to below page
+![image](https://user-images.githubusercontent.com/56335301/190954988-bc54f41d-aee9-4341-8abd-defb17fead6f.png)
 
 # Credits
 This website is created based on video tutorial created by Mr. Akash N S from Jovian Community.<br />
